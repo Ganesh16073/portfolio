@@ -1,2 +1,2 @@
 # portfolio
-A portfolio website 
+A portfolio website for codeclause internship 
